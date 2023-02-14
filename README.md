@@ -27,4 +27,4 @@ This project will be implemented in Python. The following libraries will be used
 
 pandas for data manipulation, NumPy for numerical operations, scikit-learn for model building and evaluation, matplotlib and seaborn for data visualization.
 # Conclusion
-Optimizing crop production can help faemers identify potential ways to grow good quality of crops.
+Optimizing crop production can help farmers identify potential ways to grow good quality of crops.
